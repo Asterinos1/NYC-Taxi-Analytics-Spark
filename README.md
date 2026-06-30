@@ -1,4 +1,4 @@
-# NYC Taxi Analytics - Spark Pipeline
+# NYC Taxi Analytics v2 - Data Pipeline (Spark & Airflow)
 
 This project is a containerized, Airflow-orchestrated batch data pipeline designed to process and analyze NYC Yellow Taxi trip data (2021-2023). It compares exact analytical query results against two probabilistic approximation techniques: Reservoir Sampling (Algorithm R) and Count-Min Sketch (CMS), across a structured three-layer data architecture.
 
